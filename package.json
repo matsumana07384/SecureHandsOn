@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/matsumana07384/SecureHandsOn/issues"
   },
-  "homepage": "https://github.com/matsumana07384/SecureHandsOn#readme"
+  "homepage": "https://github.com/matsumana07384/SecureHandsOn#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
